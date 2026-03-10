@@ -21,7 +21,7 @@ To get started with PolyBot, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/poly-botteam/PolyBot.git
+    git clone https://github.com/polyboteam/PolyBot.git
     cd PolyBot
     ```
 
